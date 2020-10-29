@@ -1,7 +1,9 @@
 ---
 title: Research
-subtitle: Here you'll find the investigations I've partaken on the course of these last years:
+subtitle: 
 ---
+
+
 Hello!, I know nothing, but partially this things:
 
 # 1. Analysis of the formation of Massive Globular Clustersafter a Galaxy Merge
