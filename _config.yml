@@ -18,6 +18,8 @@ navbar-links:
   Research: "Research"
   Teaching: "Teaching"
   Art: "Art"
+  Resources:
+   - Write in Llama: https://llamafont.com/ 
   Other stuff: "Other stuff"
   #Resources:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
