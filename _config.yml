@@ -14,7 +14,7 @@ author: Paula Cáceres Burgos
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  #About Me: "aboutme"
   Research: "Research"
   Outreach: "Outreach"
   Notes: "Notes"
@@ -39,7 +39,7 @@ navbar-links:
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-title-img: "/assets/img/avatar_icon.png"
+#title-img: "/assets/img/avatar_icon.png"
 
 
 # --- Footer social media links --- #
@@ -57,8 +57,8 @@ social-network-links:
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
 #  instagram: deanat78
-#  youtube: user/deanat78
-#  spotify: yourname
+  youtube: user/Paula
+  spotify: Paula Cáceres Burgos
 #  telephone: +14159998888
 #  steam: deanat78
 #  twitch: yourname
@@ -78,7 +78,7 @@ rss-description: This website is a virtual proof that I'm awesome
 # Select which social network share links to show in posts
 share-links-active:
   #twitter: true
-  facebook: true
+  #facebook: true
   github: true
   ORCID: true
   #linkedin: true
@@ -111,7 +111,7 @@ navbar-border-col: "#250952"
 page-col: "#1A0B40"
 text-col: "#E7CFFF"
 link-col: "#BFFEFF"
-hover-col: "#36F864"
+hover-col: "#7EFB9C"
 footer-col: "#EAEAEA"
 footer-text-col: "#250952"
 footer-link-col: "#250952"
