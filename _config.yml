@@ -16,8 +16,11 @@ author: Paula Cáceres Burgos
 navbar-links:
   About Me: "aboutme"
   Research: "Research"
+  Outreach: "Outreach"
+  Notes: "Notes"
   Teaching: "Teaching"
   Art: "Art"
+  
   Resources:
    - Write in Llama: https://llamafont.com/ 
   Other stuff: "Other stuff"
