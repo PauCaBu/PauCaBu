@@ -14,13 +14,16 @@ Hello!, I know nothing, but partially this things:
 <font color= "#E2BEFF"> o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o- </font>
             
 # 2. Classification of Galaxies above the Main Sequence using their Spectral Energy Distribution properties
+### Advisor: Valentino González
 #### March 2019 – July 2019
+
 - The aim was to characterize the Spectral Energy Distribution modeling of the clumps, formed in the Main Sequence, to later predict them.
 - For clustering analysis, Gaussian Mixture Method was utilized; while for characterization it was used Principal Component Analysis.
 
 <font color= "#E2BEFF"> o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o- </font>
 
 # 3. Search for Intermediate-Mass Black Holes in Nearby Galaxies using Spectral Analysis
+### Advisor: Paulina Lira
 #### September 2019 – January 2020
 - The aims were to find Intermediate-Mass Black Holes by fitting the Broad Components to Halpha emission lne.
 - The data used were galaxies that showed fast Variability in the Optical from the High Cadence Transient Survey (HiTS) (Forster et al., 2016)
@@ -28,6 +31,7 @@ Hello!, I know nothing, but partially this things:
  <font color= "#E2BEFF"> o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o- </font>
            
 # 4. Testing the Efficacy of Searching Intermediate-Mass Black Holes through Optical Variability
+### Advisor: Paulina Lira
 #### April 2020 - December 2020
 - We search for spectral Active galactic Nuclei signatures in a sample of active Intermediate-
 Mass Black Holes (IMBHs) candidates selected by fast optical variability, which compose the
@@ -39,6 +43,7 @@ comparison to a sample that does not present fast variability
  <font color= "#E2BEFF"> o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o- </font>
 
 # 5. Empiric constraints to the Seed models for Supermassive Black Holes
+### Advisor: Paulina Lira
 #### December 2020 – Now
 - We thoroughly study a sample of viable IMBH candidates from the SIBLING survey, by
 assuring their fast variability on the g-band, utilizing the LSST Science Pipeline software.
